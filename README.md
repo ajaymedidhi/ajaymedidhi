@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi I'm Ajay Medidhi 👋
 
 
-Hello! My name is Ajay Medidhi, and I'm a beginner fullstack developer. Welcome to my portfolio
+An aspiring Full Stack Developer with a passion for frontend and backend development
+coding
 
 
 🔭 I’m currently working on Node js project and responsive websites
@@ -10,10 +11,19 @@ Hello! My name is Ajay Medidhi, and I'm a beginner fullstack developer. Welcome 
 
 🌱 I’m currently learning MERN Stack development 
 
+💬 Ask me about React, Javascript, HTML, CSS, Node, Express, SQLITE
+
+📫 How to reach me ajaymedidhi858@gmail.com
+
+
+Languages and Tools:
+bootstrap c css3 express figma git html5 java javascript linux  nodejs python react sqlite 
+
+
+ 
 
 
 
-As a fullstack developer with experience in both frontend and backend development, I have worked on various web applications using a range of programming languages, frameworks, and tools. My skills include HTML, CSS, JavaScript, React, Node.js, Express, SQL, and NoSQL databases, among others
 
 <!--
 **ajaymedidhi/ajaymedidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
