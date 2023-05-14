@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ajaymedidhi.io)
 
 <h1 align="center">Hi 👋, I'm Ajay Medidhi</h1>
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
