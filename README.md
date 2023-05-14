@@ -11,7 +11,7 @@ coding
 
 🌱 I’m currently learning MERN Stack development 
 
-💬 Ask me about React, Javascript, HTML, CSS, Node, Express, SQLITE
+💬 Ask me about Javascript, HTML, CSS, Node, Express, SQLITE
 
 📫 How to reach me ajaymedidhi858@gmail.com
 
