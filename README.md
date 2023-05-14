@@ -1,5 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ajaymedidhi.io)
+
 <h1 align="center">Hi 👋, I'm Ajay Medidhi</h1>
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
+
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/ajaymedidhi7/image/upload/v1684066605/gitimage_yrfdtv.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaymedidhi&label=Profile%20views&color=0e75b6&style=flat" alt="ajaymedidhi" /> </p>
 
