@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **responsive projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **HTML , CSS , Javascript, Bootstrap , Python , Node Js and SQLite**
 
