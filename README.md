@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML , CSS , Javascript, Bootstrap , Python , Node Js and SQLite**
+- 💬 Ask me about **HTML , CSS , Javascript, Bootstrap , Python , React Js , Node Js and SQLite**
 
 - 📫 How to reach me **ajaymedidhi858@gmail.com**
 
